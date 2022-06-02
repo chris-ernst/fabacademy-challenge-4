@@ -8,19 +8,34 @@ Components:
 1. Button board 
 2. Audio
 3. Visuals
+4. PCB
 
 
 
-1. Button board
+### Button board
 
 Button board requires 3D modelling, molding and casting, electronics.
 
 Material used:
-- 
 
-2. Audio
+### Audio
 
 The audio interface we're working with is Ableton
+
+### Visuals 
+*more on that shortly*
+
+### PCB
+
+Quick notes on fabrication
+- [Traces: min. 1/64IN
+- 1/32IN OUTLINE
+- seperation 2.55mm
+- traces 0.35mm minimum
+- clearance 0.4.
+- holes 1mm
+
+*more on that shortly*
 
 
 
