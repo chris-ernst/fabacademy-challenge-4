@@ -75,12 +75,13 @@ PCB files can be found [here](/1_fabrication/Arduino_Shield).
 ![photo](/0_process/IMG_4219.jpeg) 
 ![photo](/0_process/IMG_8706.JPG) 
 ![photo](/0_process/IMG_8712.JPG) 
+![photo](/0_process/IMG_8715.JPG) 
 
 
 ## Audiovisuals
 
--> 
-
+![photo](/0_process/IMG_8713.JPG) 
+![photo](/0_process/IMG_8722.JPG) 
 
 
 # ACADEMIC LEVEL
