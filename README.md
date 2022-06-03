@@ -23,7 +23,8 @@ Material used:
 The audio interface we're working with is Ableton
 
 ### Visuals 
-*more on that shortly*
+
+Visuals made with Touchdesigner
 
 ### PCB
 
@@ -42,6 +43,8 @@ Quick notes on fabrication
   <img src="/IMG_1716.PNG" width="550" /> 
 </p>
 
+
+All the buttons are connected to Arduino that is communicating the data to Touchdesigner. Each button triggers a visual + sound and each potentiomenter changes the color, shape and pitch.
 
 # Long term dissemination plan
 need to explain strategy you will use to share with future users your project (licences, tools, communication, etc)
