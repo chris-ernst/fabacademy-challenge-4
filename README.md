@@ -1,4 +1,6 @@
-# fabacademy-challenge-4
+# Hybrid Ecosystems
+
+## Building a bio-based MIDI controller for an interactive audiovisual performance
 
 ## Scope: 
 Tati, Joaco and Chris are building a bio-based A/V interface. 
@@ -28,22 +30,13 @@ Material used:
 - screws
 - Arduino board
 
-
-
-Recipe for biomaterials:
-
-Agar Agar :4g
-
-Water: 80 ml
-
-Glycerin: 15 ml
-
-Process: Mix everything togueter while its cold, then pour the mix on a glass, and heat it in a microwave for 1.30 min.
+Recipe for biomaterials can be found [here](/2_biomaterials).
 
 
 ### Audio
 
-The audio interface we're working with is Ableton
+The audio interface we're working with is Ableton. 
+
 
 ### Visuals 
 
@@ -52,18 +45,18 @@ Visuals made with Touchdesigner
 ### PCB
 
 Quick notes on fabrication
-- [Traces: min. 1/64IN
-- 1/32IN OUTLINE
-- seperation 2.55mm
-- traces 0.35mm minimum
-- clearance 0.4.
-- holes 1mm
+- Trace mill: min. 1/64"
+- Outline mill: 1/32"
+- Trace seperation: 2.55mm
+- Minimal trace width: 0.35mm 
+- Trace clearance: 0.4mm
+- Hole diameter: 1mm
 
-*more on that shortly*
+PCB files can be found [here](/1_fabrication/Arduino_Shield).
 
 <p float="left">
-  <img src="/IMG_1715.PNG" width="450" />
-  <img src="/IMG_1716.PNG" width="550" /> 
+  <img src="0_process/IMG_1715.PNG" width="450" />
+  <img src="0_process/IMG_1716.PNG" width="550" /> 
 </p>
 
 
