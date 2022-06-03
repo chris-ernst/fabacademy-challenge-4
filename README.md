@@ -43,6 +43,13 @@ Quick notes on fabrication
 </p>
 
 
+# Long term dissemination plan
+need to explain strategy you will use to share with future users your project (licences, tools, communication, etc)
+
+Easy to scale up: we already have the 3D files for a button, potentiometer and pressure sensor, so it is only a matter of repeating the 3D printing.
+
+As for the audiovisual files, Touchdesigner is free for personal use and has a very active community, so we could post the file on TD forums for people to use and learn. Ableton, on the other hand is very not open source and expensive, so it wouldn't be easy to share that with people who do not have a license for it.
+
 
 
 
