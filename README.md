@@ -18,6 +18,29 @@ Button board requires 3D modelling, molding and casting, electronics.
 
 Material used:
 
+- 3 buttons
+- 3 potentiometers
+- 1 touch sensor
+- biomaterials
+- 3D materials for printing models for moulding and casting
+- 3D materials for printing the box
+- cables
+- screws
+- Arduino board
+
+
+
+Recipe for biomaterials:
+
+Agar Agar :4g
+
+Water: 80 ml
+
+Glycerin: 15 ml
+
+Process: Mix everything togueter while its cold, then pour the mix on a glass, and heat it in a microwave for 1.30 min.
+
+
 ### Audio
 
 The audio interface we're working with is Ableton
