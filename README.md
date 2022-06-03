@@ -18,6 +18,25 @@ Button board requires 3D modelling, molding and casting, electronics.
 
 Material used:
 
+- button
+- potentiometer
+- pressure sensor
+- 3D printing
+- biomaterials
+- PCB milling
+
+## Biomaterials
+
+Recipe:
+
+Agar Agar :4g
+
+Water: 80 ml
+
+Glycerin: 15 ml
+
+Process: Mix everything togueter while its cold, then pour the mix on a glass, and heat it in a microwave for 1.30 min.
+
 ### Audio
 
 The audio interface we're working with is Ableton
@@ -38,10 +57,11 @@ Quick notes on fabrication
 
 *more on that shortly*
 
-<p float="left">
-  <img src="/IMG_1715.PNG" width="450" />
-  <img src="/IMG_1716.PNG" width="550" /> 
-</p>
+
+![photo](/IMG_1715.PNG)
+![photo](/IMG_1716.PNG)
+
+
 
 
 All the buttons are connected to Arduino that is communicating the data to Touchdesigner. Each button triggers a visual + sound and each potentiomenter changes the color, shape and pitch.
