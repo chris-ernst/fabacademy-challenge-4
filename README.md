@@ -13,7 +13,6 @@ Components:
 4. PCB
 
 
-
 ### Button board
 
 Button board requires 3D modelling, molding and casting, electronics.
@@ -73,47 +72,47 @@ As for the audiovisual files, Touchdesigner is free for personal use and has a v
 
 
 
-## ACADEMIC LEVEL
+# ACADEMIC LEVEL
 
-# Level of the project (quality and complexity of the designed prototype/code/artifacts)
-
-
-# Explain how it's linked to your research areas
+## Level of the project (quality and complexity of the designed prototype/code/artifacts)
 
 
-
-# Initial idea / Concept of the Project ( What questions need to be answered?)
-
-# Propose What is supposed to do or not to do)
-
-
-# Shown how your team planned and executed the project
-
-# System diagram (illustration explaining function, parts, and relations)
-
-
-# Integrated Design (How you designed it - relation between elements)
-
-# Honest Design (use of technology in a meaningful way) Relation to the topics
-
-# Be creative (find solutions with materials and technology you have)
-
-# Explore design boundaries (based on your expertice)
-
-# Listed future development opportunity for this project
+## Explain how it's linked to your research areas
 
 
 
-# Long term dissemination plan
+## Initial idea / Concept of the Project ( What questions need to be answered?)
+
+## Propose What is supposed to do or not to do)
+
+
+## Shown how your team planned and executed the project
+
+## System diagram (illustration explaining function, parts, and relations)
+
+
+## Integrated Design (How you designed it - relation between elements)
+
+## Honest Design (use of technology in a meaningful way) Relation to the topics
+
+## Be creative (find solutions with materials and technology you have)
+
+## Explore design boundaries (based on your expertice)
+
+## Listed future development opportunity for this project
+
+
+
+## Long term dissemination plan
 need to explain strategy you will use to share with future users your project (licences, tools, communication, etc)
 
 
 
-## REPLICABILITY
+# REPLICABILITY
 
-# Level of clarity and detail of the documentation material (photos, video, text, etc)
+## Level of clarity and detail of the documentation material (photos, video, text, etc)
 
-# How did you fabricate it (fabrication processes and materials)
+## How did you fabricate it (fabrication processes and materials)
 
 # Design & Fabrication files (open source or open format)
 
