@@ -77,88 +77,78 @@ PCB files can be found [here](/1_fabrication/Arduino_Shield).
 ![photo](/0_process/IMG_8712.JPG) 
 
 
-
 ## Audiovisuals
 
 -> 
 
-# Long term dissemination plan
+
+
+# ACADEMIC LEVEL
+
+## Long term dissemination plan
 need to explain strategy you will use to share with future users your project (licences, tools, communication, etc)
 
 Easy to scale up: we already have the 3D files for a button, potentiometer and pressure sensor, so it is only a matter of repeating the 3D printing.
 
 As for the audiovisual files, Touchdesigner is free for personal use and has a very active community, so we could post the file on TD forums for people to use and learn. Ableton, on the other hand is very not open source and expensive, so it wouldn't be easy to share that with people who do not have a license for it.
 
+- [ ] Level of the project (quality and complexity of the designed prototype/code/artifacts)
 
-# ACADEMIC LEVEL
+- [ ] Explain how it's linked to your research areas
 
-## Level of the project (quality and complexity of the designed prototype/code/artifacts)
+- [ ] Initial idea / Concept of the Project ( What questions need to be answered?)
 
-
-## Explain how it's linked to your research areas
-
-
-
-## Initial idea / Concept of the Project ( What questions need to be answered?)
-
-## Propose What is supposed to do or not to do)
+- [ ] Propose What is supposed to do or not to do)
 
 
-## Shown how your team planned and executed the project
+- [ ] Shown how your team planned and executed the project
 
-## System diagram (illustration explaining function, parts, and relations)
-
-
-## Integrated Design (How you designed it - relation between elements)
-
-## Honest Design (use of technology in a meaningful way) Relation to the topics
-
-## Be creative (find solutions with materials and technology you have)
-
-## Explore design boundaries (based on your expertice)
-
-## Listed future development opportunity for this project
+- [ ] System diagram (illustration explaining function, parts, and relations)
 
 
+- [ ] Integrated Design (How you designed it - relation between elements)
 
-## Long term dissemination plan
-need to explain strategy you will use to share with future users your project (licences, tools, communication, etc)
+- [ ] Honest Design (use of technology in a meaningful way) Relation to the topics
 
+- [ ] Be creative (find solutions with materials and technology you have)
+
+- [ ] Explore design boundaries (based on your expertice)
+
+- [ ] Listed future development opportunity for this project
 
 
 # REPLICABILITY
 
-## Level of clarity and detail of the documentation material (photos, video, text, etc)
+- [ ] Level of clarity and detail of the documentation material (photos, video, text, etc)
 
-## How did you fabricate it (fabrication processes and materials)
+- [ ] How did you fabricate it (fabrication processes and materials)
 
-## Design & Fabrication files (open source or open format)
+- [ ] Design & Fabrication files (open source or open format)
 
-## BOM (Build of Materials)
+- [ ] BOM (Build of Materials)
 
-## Iteration Process (spiral development)
+- [ ] Iteration Process (spiral development)
 
-## Described problems and how the team solved them
+- [ ] Described problems and how the team solved them
 
-## Photographies of the end artifacts
+- [ ] Photographies of the end artifacts
 
 
 
 # ATTITUDE
 
-## Involvement, Motivation level proactive behaviors
+- [ ] Involvement, Motivation level proactive behaviors
 
-## Attendance to classes
+- [ ] Attendance to classes
 
-## Proactive behaviours to find answers during the challenge
+- [ ] Proactive behaviours to find answers during the challenge
 
-## Help others student's projects
+- [ ] Help others student's projects
 
+- [ ] Participation in feedbacks sessions
 
-## Participation in feedbacks sessions
+- [ ] Dealing with uncertainty
 
-## Dealing with uncertainty
-
-## Don't be afraid to make mistakes ( going out of your confort zone)
+- [ ] Don't be afraid to make mistakes ( going out of your confort zone)
 
 
