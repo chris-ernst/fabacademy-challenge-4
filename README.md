@@ -18,25 +18,6 @@ Button board requires 3D modelling, molding and casting, electronics.
 
 Material used:
 
-- button
-- potentiometer
-- pressure sensor
-- 3D printing
-- biomaterials
-- PCB milling
-
-## Biomaterials
-
-Recipe:
-
-Agar Agar :4g
-
-Water: 80 ml
-
-Glycerin: 15 ml
-
-Process: Mix everything togueter while its cold, then pour the mix on a glass, and heat it in a microwave for 1.30 min.
-
 ### Audio
 
 The audio interface we're working with is Ableton
@@ -57,11 +38,10 @@ Quick notes on fabrication
 
 *more on that shortly*
 
-
-![photo](/IMG_1715.PNG)
-![photo](/IMG_1716.PNG)
-
-
+<p float="left">
+  <img src="/IMG_1715.PNG" width="450" />
+  <img src="/IMG_1716.PNG" width="550" /> 
+</p>
 
 
 All the buttons are connected to Arduino that is communicating the data to Touchdesigner. Each button triggers a visual + sound and each potentiomenter changes the color, shape and pitch.
@@ -149,6 +129,7 @@ need to explain strategy you will use to share with future users your project (l
 # Don't be afraid to make mistakes ( going out of your confort zone)
 
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([https://youtu.be/vt5fpE0bzSY](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2db77373-799c-44dc-9eed-a193a9d7025f/Fab_Challenge_4_Summary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T135727Z&X-Amz-Expires=86400&X-Amz-Signature=bd76c62f96808c296dd6098353f9e487a46c8533aaf282863562d5775bfa159e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Fab%2520Challenge%25204%2520Summary.mp4%22&x-id=GetObject))
 
 
 
