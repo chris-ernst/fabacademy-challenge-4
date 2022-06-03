@@ -2,18 +2,18 @@
 
 ## Building a bio-based MIDI controller for an interactive audiovisual performance
 
-## Scope: 
+# SCOPE
 Tati, Joaco and Chris are building a bio-based A/V interface. 
 
 Components:
 
 1. Button board 
-2. Audio
-3. Visuals
-4. PCB
+2. PCB
+3. Audio & Visuals
 
+In this documentation we will focus on the fabrication of the controller and the electronics as this was the main focus this week. 
 
-### Button board
+## Button board
 
 Button board requires 3D modelling, molding and casting, electronics.
 
@@ -29,41 +29,6 @@ Material used:
 - screws
 - Arduino board
 
-Recipe for biomaterials can be found [here](/2_biomaterials).
-
-![photo](/0_process/IMG_8674.JPG) 
-![photo](/0_process/IMG_8693.JPG) 
-![photo](/0_process/IMG_8703.JPG) 
-
-![photo](/0_process/IMG_8644.JPG) 
-![photo](/0_process/IMG_8646.JPG) 
-![photo](/0_process/IMG_8650.JPG) 
-![photo](/0_process/IMG_4207.jpeg) 
-![photo](/0_process/IMG_4211.jpeg) 
-
-
-
-### Audio
-
-The audio interface we're working with is Ableton. 
-
-
-### Visuals 
-
-Visuals made with Touchdesigner
-
-### PCB
-
-Quick notes on fabrication
-- Trace mill: min. 1/64"
-- Outline mill: 1/32"
-- Trace seperation: 2.55mm
-- Minimal trace width: 0.35mm 
-- Trace clearance: 0.4mm
-- Hole diameter: 1mm
-
-PCB files can be found [here](/1_fabrication/Arduino_Shield).
-
 ![photo](/0_process/IMG_1715.PNG) 
 ![photo](/0_process/IMG_1716.PNG) 
 
@@ -73,6 +38,49 @@ All the buttons are connected to Arduino that is communicating the data to Touch
 [Watch progress video](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2db77373-799c-44dc-9eed-a193a9d7025f/Fab_Challenge_4_Summary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T135727Z&X-Amz-Expires=86400&X-Amz-Signature=bd76c62f96808c296dd6098353f9e487a46c8533aaf282863562d5775bfa159e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Fab%2520Challenge%25204%2520Summary.mp4%22&x-id=GetObject) 
 
 
+### Molding & Casting
+
+Recipe for biomaterials can be found [here](/2_biomaterials).
+
+![photo](/0_process/IMG_8674.JPG) 
+![photo](/0_process/IMG_8693.JPG) 
+![photo](/0_process/IMG_8703.JPG) 
+
+### 3D Fabrication
+
+![photo](/0_process/IMG_8644.JPG) 
+![photo](/0_process/IMG_8646.JPG) 
+![photo](/0_process/IMG_8650.JPG) 
+![photo](/0_process/IMG_4207.jpeg) 
+
+![photo](/0_process/IMG_8652.JPG) 
+![photo](/0_process/IMG_8659.jpeg) 
+![photo](/0_process/IMG_4211.jpeg) 
+
+### Milling and Soldering an Arduino Shield
+
+Designing, milling and soldering a Arduino Shield to multiply the GND and 5V outputs for the controller. 
+
+Some notes on fabrication
+- Trace mill: min. 1/64"
+- Outline mill: 1/32"
+- Trace seperation: 2.55mm
+- Minimal trace width: 0.35mm 
+- Trace clearance: 0.4mm
+- Hole diameter: 1mm
+
+PCB files can be found [here](/1_fabrication/Arduino_Shield).
+
+![photo](/0_process/IMG_4208.jpeg) 
+![photo](/0_process/IMG_4219.jpeg) 
+![photo](/0_process/IMG_8706.JPG) 
+![photo](/0_process/IMG_8712.JPG) 
+
+
+
+## Audiovisuals
+
+-> 
 
 # Long term dissemination plan
 need to explain strategy you will use to share with future users your project (licences, tools, communication, etc)
