@@ -31,6 +31,11 @@ Material used:
 
 Recipe for biomaterials can be found [here](/2_biomaterials).
 
+![photo](/0_process/IMG_8674.JPG) 
+![photo](/0_process/IMG_8693.JPG) 
+![photo](/0_process/IMG_8703.JPG) 
+
+
 
 ### Audio
 
@@ -61,15 +66,18 @@ PCB files can be found [here](/1_fabrication/Arduino_Shield).
 
 All the buttons are connected to Arduino that is communicating the data to Touchdesigner. Each button triggers a visual + sound and each potentiomenter changes the color, shape and pitch.
 
+[Watch progress video](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2db77373-799c-44dc-9eed-a193a9d7025f/Fab_Challenge_4_Summary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T135727Z&X-Amz-Expires=86400&X-Amz-Signature=bd76c62f96808c296dd6098353f9e487a46c8533aaf282863562d5775bfa159e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Fab%2520Challenge%25204%2520Summary.mp4%22&x-id=GetObject) 
+
+
+
+![photo](/0_process/IMG_8646.JPG) 
+
 # Long term dissemination plan
 need to explain strategy you will use to share with future users your project (licences, tools, communication, etc)
 
 Easy to scale up: we already have the 3D files for a button, potentiometer and pressure sensor, so it is only a matter of repeating the 3D printing.
 
 As for the audiovisual files, Touchdesigner is free for personal use and has a very active community, so we could post the file on TD forums for people to use and learn. Ableton, on the other hand is very not open source and expensive, so it wouldn't be easy to share that with people who do not have a license for it.
-
-
-
 
 
 # ACADEMIC LEVEL
@@ -114,37 +122,33 @@ need to explain strategy you will use to share with future users your project (l
 
 ## How did you fabricate it (fabrication processes and materials)
 
-# Design & Fabrication files (open source or open format)
+## Design & Fabrication files (open source or open format)
 
-# BOM (Build of Materials)
+## BOM (Build of Materials)
 
-# Iteration Process (spiral development)
+## Iteration Process (spiral development)
 
-# Described problems and how the team solved them
+## Described problems and how the team solved them
 
-# Photographies of the end artifacts
-
-
-
-## ATTITUDE
-
-# Involvement, Motivation level proactive behaviors
-
-# Attendance to classes
-
-# Proactive behaviours to find answers during the challenge
-
-# Help others student's projects
-
-
-# Participation in feedbacks sessions
-
-# Dealing with uncertainty
-
-# Don't be afraid to make mistakes ( going out of your confort zone)
-
-[Watch progress video](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2db77373-799c-44dc-9eed-a193a9d7025f/Fab_Challenge_4_Summary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T135727Z&X-Amz-Expires=86400&X-Amz-Signature=bd76c62f96808c296dd6098353f9e487a46c8533aaf282863562d5775bfa159e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Fab%2520Challenge%25204%2520Summary.mp4%22&x-id=GetObject) 
+## Photographies of the end artifacts
 
 
 
-![photo](/0_process/IMG_8646.JPG) 
+# ATTITUDE
+
+## Involvement, Motivation level proactive behaviors
+
+## Attendance to classes
+
+## Proactive behaviours to find answers during the challenge
+
+## Help others student's projects
+
+
+## Participation in feedbacks sessions
+
+## Dealing with uncertainty
+
+## Don't be afraid to make mistakes ( going out of your confort zone)
+
+
