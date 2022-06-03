@@ -132,4 +132,4 @@ need to explain strategy you will use to share with future users your project (l
 
 
 
-![photo](/0_process/update1.JPG) 
+![photo](/0_process/IMG_8646.JPG) 
