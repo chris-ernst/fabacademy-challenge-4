@@ -37,6 +37,13 @@ Quick notes on fabrication
 
 *more on that shortly*
 
+<p float="left">
+  <img src="/IMG_1715.PNG.jpg" width="500" />
+  <img src="/IMG_1716.PNG.jpg" width="500" /> 
+</p>
+
+
+
 
 
 
