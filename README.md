@@ -99,16 +99,16 @@ This button board requires 3D modelling, molding and casting, electronics.
 The input (button, rotor, pressure sensor) has a 3D printed case which keeps it stable and allows us to place it where we want. It is connected to the arduino (Code found in project files) which communicates the data into touchdesigner. This data is either binary, 0/1 for the button, or a range, like 0-1023 for the rotary knob. This data is remapped in Touchdesigner according to our needs: for example, 0-1023 is remapped to 1-360 in order for the rotary knob to change the hue of the colour selected in the visual. The buttons activate the visuals in Touchdesigner, but also simulatenously send midi values to ableton thanks to the TDAbleton link we set up for the two softwares to communicate.
 
 
-- [ ] Honest Design (use of technology in a meaningful way) Relation to the topics
+- [x] Honest Design (use of technology in a meaningful way) Relation to the topics
 
 We believe the technology was used in a meaningful way because we thought about how to conceptually match our vision with the experience. In other words, since we want participants to think about how technology, art and nature are connected in a collaborative way, we wanted this to be reflected in the button board itself, which is why we chose to make it decentralised with biomaterial and electronic components.
 
 
-- [ ] Be creative (find solutions with materials and technology you have)
+- [x] Be creative (find solutions with materials and technology you have)
 
 We were creative in our approach and execution of the product, starting from the sketches, to the cardboard prototype and finally the product itself.
 
-- [ ] Explore design boundaries (based on your expertise)
+- [x] Explore design boundaries (based on your expertise)
 
 We were unfamiliar with OSC and IP communication protocols, so this was an area we really had to push ourselves in, but it ended up being very beneficial.
 
@@ -212,7 +212,7 @@ Out of all challenges, however, this was the one where we faced the least diffic
 
 
 - [x] Photographies of the end artifacts
-- [ ] 
+
 ![photo](/0_process/IMG_4211.jpeg) 
 
 
