@@ -40,7 +40,7 @@ These buttons would then trigger visuals through Touchdesigner and audio through
 # ACADEMIC LEVEL
 
 ## Long term dissemination plan
-need to explain strategy you will use to share with future users your project (licences, tools, communication, etc)
+explain the strategy you will use to share with future users your project (licences, tools, communication, etc)
 
 Easy to scale up: we already have the 3D files for a button, potentiometer and pressure sensor, so it is only a matter of repeating the 3D printing.
 
@@ -60,7 +60,7 @@ Our research areas are very similar, even though we hav different focal points. 
 We've liked working together because we manage to each find a way to reach a common objective (Audiovisual VJ set with biomaterials) without compromising our specific interests (bio fabrication, creative coding, generative music etc.).
 
 
-- [x] Shown how your team planned and executed the project
+- [x] Show how your team planned and executed the project
 
 We divided the group based on skills and interests: Juaco worked on the 3D printing, moulding & casting and soldering, Chris worked on the electronics, pcb milling and Ableton sountrack and Tatiana figured out how to structure the pipeline in Touchdesigner to receive, remap and send data through various protocols.
 We often teamed up and helped each other out on various tasks but generally, we can say that our biggest tasks were digital fabrication, biomaterial moulding, PCB milling, electronics, wireless communications, audio & visuals generation.
