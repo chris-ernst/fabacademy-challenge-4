@@ -139,7 +139,6 @@ Then, he designed the final structure to be 3D printed in Fusion 360, with sligh
 
 ![photo](/0_process/IMG_8652.JPG) 
 ![photo](/0_process/IMG_8659.JPG) 
-![photo](/0_process/IMG_4211.jpeg) 
 
 
 
@@ -213,6 +212,9 @@ Out of all challenges, however, this was the one where we faced the least diffic
 
 
 - [x] Photographies of the end artifacts
+- [ ] 
+![photo](/0_process/IMG_4211.jpeg) 
+
 
 You can find the final process video [here](https://vimeo.com/717057704)
 
