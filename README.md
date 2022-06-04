@@ -13,6 +13,8 @@ Components:
 
 In this documentation we will focus on the fabrication of the controller and the electronics as this was the main focus this week. 
 
+## [See our progress summary video on Vimeo](https://vimeo.com/717057704)
+
 ## Button board
 
 Button board requires 3D modelling, molding and casting, electronics.
@@ -35,8 +37,6 @@ Material used:
 
 All the buttons are connected to Arduino that is communicating the data to Touchdesigner. Each button triggers a visual + sound and each potentiomenter changes the color, shape and pitch.
 
-
-<div><iframe src="https://player.vimeo.com/video/717057704?h=02182214a8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Fab Challenge 4 Summary"></iframe></div>
 
 ### Molding & Casting
 
