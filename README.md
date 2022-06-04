@@ -178,8 +178,7 @@ PCB files can be found [here](/1_fabrication/Arduino_Shield).
 Tatiana coordinated the audiovisuals and managed the incoming and outgoing data
 
 ![photo](/0_process/IMG_8713.JPG) 
-![photo](/0_process/tati.JPG) 
-
+![photo](/0_process/tati.png) 
 
 
 Together, we worked on the electronics, iterating based on our testing needs. We started out with a simple button and then proceeded to add knobs and pressure sensors. Chris and Tatiana worked on the arduino code and how to visualise it in Touchdesigner.
@@ -190,26 +189,36 @@ Together, we worked on the electronics, iterating based on our testing needs. We
 
 - [ ] Iteration Process (spiral development)
 
+For the input cases
+
+Cardboard prototype -> breadboard electronics -> 3D printed casing -> button biomaterial moulding 
+
+For the audiovisual pipeline
+
+1. Understanding OSC protocols with TouchOSC app communicating with Touchdesigner (just to get familiar with IP addresses and ports)
+2. Receiving data from Arduino by using Serial DAT (operator node which receives serial data)
+3. Communicating interchangeably between Touchdeisgner and Ableton, using TDAbleton over IP address
+
+In both cases, we scaled up the difficulty over time, once we understood the basics of the software or technique.
+
+
 - [ ] Described problems and how the team solved them
+
+As always, we had many bugs in the code, within the protocols and we often had to 
+
+Out of all challenges, however, this was the one where we faced the least difficulties because we were so prepared and determined to getting things done, but also because we distributed our skills well and evenly without experimenting too much. It's always important to balance the experimenting enough to be out-of-the-box, yet be rigorous with time and organisation in order to finish within the deadlines.
+
 
 - [ ] Photographies of the end artifacts
 
+You can find the final process video [here](https://vimeo.com/717057704)
 
 
-# ATTITUDE
+- [ ] Dealing with uncertainty + Don't be afraid to make mistakes
 
-- [ ] Involvement, Motivation level proactive behaviors
+The IAAC wifi sucks. Especially when there are dozens of students git pushing and uploading last minute files onto the repo. We were actually really disappointed with our final presentation because we were looking forward to showcasing our week of hard work to the class and professors, but the wifi bandwidth was not stable enough to maintain a connection between Tatiana and Chris' computer, which meant that Touchdesigner and Ableton were not able to communicate.
 
-- [ ] Attendance to classes
+This is something to keep in mind for the final show, but maybe it was a way of us not "spoiling" the magic of the event.
 
-- [ ] Proactive behaviours to find answers during the challenge
-
-- [ ] Help others student's projects
-
-- [ ] Participation in feedbacks sessions
-
-- [ ] Dealing with uncertainty
-
-- [ ] Don't be afraid to make mistakes ( going out of your confort zone)
 
 
