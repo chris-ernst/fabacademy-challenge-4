@@ -20,7 +20,7 @@ In this documentation we will focus on the fabrication of the controller and the
 
 - [x] Initial idea / Concept of the Project ( What questions need to be answered?)
 
-![photo](/0_process/sketches.PNG) 
+![photo](/0_process/sketches.png) 
 
 
 _How can we rethink a musical instrument? What are inputs, and how can they change shape and colors? How can we create engaging, collborative interactions with a button board?_
@@ -49,7 +49,7 @@ As for the audiovisual files, Touchdesigner is free for personal use and has a v
 
 - [x] Explain how it's linked to your research areas
 
-![photo](/0_process/interests.PNG) 
+![photo](/0_process/interests.png) 
 
 
 Our research areas are very similar, even though we hav different focal points. The common areas are music, sustainability, environmental awareness, multimedia installations, interaction design, ecologies and audiovisuals. Our individual niches and specialties are 
