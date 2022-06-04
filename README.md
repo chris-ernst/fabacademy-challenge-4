@@ -7,40 +7,33 @@ Tati, Joaco and Chris are building a bio-based A/V interface.
 
 
 
-Components:
+Basic structure:
 
-1. Button board 
+1. Inputs (buttons) 
 2. PCB
-3. Audio & Visuals
+3. Outputs (Audio & Visuals)
 
-In this documentation we will focus on the fabrication of the controller and the electronics as this was the main focus this week. 
+In this documentation we will focus on the fabrication of the controller and the electronics as this was the main focus this week, but we will also touch upon wireless communication protocols. 
 
 ## [See our progress summary video on Vimeo](https://vimeo.com/717057704)
 
-## Button board
 
-Button board requires 3D modelling, molding and casting, electronics.
+- [x] Initial idea / Concept of the Project ( What questions need to be answered?)
 
-
-- [x] BOM (Build of Materials)
-
-Material used:
-
-- 3 buttons
-- 3 potentiometers
-- 1 touch sensor
-- biomaterials
-- 3D materials for printing models for moulding and casting
-- 3D materials for printing the box
-- cables
-- screws
-- Arduino board
-
-![photo](/0_process/IMG_1715.PNG) 
-![photo](/0_process/IMG_1716.PNG) 
+![photo](/0_process/sketches.PNG) 
 
 
-All the buttons are connected to Arduino that is communicating the data to Touchdesigner. Each button triggers a visual + sound and each potentiomenter changes the color, shape and pitch.
+_How can we rethink a musical instrument? What are inputs, and how can they change shape and colors? How can we create engaging, collborative interactions with a button board?_
+
+We wanted to make a modular button input system. After initially thinking about producing some sort of playable MIDI keyboard, we thought it could be interesting to incorporate two of Akasha hub's values into the design: decentralisation & sustainable relationships. So we designed the possibility for distributed buttons (which could be placed together with magnets or farther away) and rethought the buttons' materiality by using biomaterials.
+
+We were inspired by the structure a visual aspect of beehives, which is why we ended up going for the hexagonic shape.
+
+For the challenge we wanted to test out a diversity of inputs: we selected a "normal" clicking button, a potentiometer and a pressure sensor. This way, we could get a good understanding of each one and simply scale up the process based on our needs in the future.
+
+- [x] Purpose: What is it supposed to do?
+
+These buttons would then trigger visuals through Touchdesigner and audio through Ableton, at the same time, through TDAbleton protocols using wireless communication through IP addresses.
 
 
 
@@ -67,23 +60,6 @@ Our research areas are very similar, even though we hav different focal points. 
 We've liked working together because we manage to each find a way to reach a common objective (Audiovisual VJ set with biomaterials) without compromising our specific interests (bio fabrication, creative coding, generative music etc.).
 
 
-- [x] Initial idea / Concept of the Project ( What questions need to be answered?)
-
-![photo](/0_process/sketches.PNG) 
-
-
-How can we rethink a musical instrument? What are inputs, and how can they change shape and colors? How can we create engaging, collborative interactions with a button board?
-
-We wanted to make a modular button input system. After initially thinking about producing some sort of playable MIDI keyboard, we thought it could be interesting to incorporate two of Akasha hub's values into the design: decentralisation & sustainable relationships. So we designed the possibility for distributed buttons (which could be placed together with magnets or farther away) and rethought the buttons' materiality by using biomaterials.
-
-We were inspired by the structure a visual aspect of beehives, which is why we ended up going for the hexagonic shape.
-
-For the challenge we wanted to test out a diversity of inputs: we selected a "normal" clicking button, a potentiometer and a pressure sensor. This way, we could get a good understanding of each one and simply scale up the process based on our needs in the future.
-
-- [x] Purpose: What is it supposed to do?
-
-These buttons would then trigger visuals through Touchdesigner and audio through Ableton, at the same time, through TDAbleton protocols using wireless communication through IP addresses.
-
 - [x] Shown how your team planned and executed the project
 
 We divided the group based on skills and interests: Juaco worked on the 3D printing, moulding & casting and soldering, Chris worked on the electronics, pcb milling and Ableton sountrack and Tatiana figured out how to structure the pipeline in Touchdesigner to receive, remap and send data through various protocols.
@@ -91,7 +67,32 @@ We often teamed up and helped each other out on various tasks but generally, we 
 
 - [x] System diagram (illustration explaining function, parts, and relations)
 
+![photo](/0_process/IMG_1715.PNG) 
 ![photo](/0_process/IMG_1716.PNG) 
+
+
+All the buttons are connected to Arduino that is communicating the data to Touchdesigner. Each button triggers a visual + sound and each potentiomenter changes the color, shape and pitch.
+
+
+
+- [x] BOM (Build of Materials)
+
+Material used:
+
+- 3 buttons
+- 3 potentiometers
+- 1 touch sensor
+- biomaterials
+- 3D materials for printing models for moulding and casting
+- 3D materials for printing the box
+- cables
+- screws
+- Arduino board
+
+## Button board
+
+This button board requires 3D modelling, molding and casting, electronics.
+
 
 - [x] Integrated Design (How you designed it - relation between elements)
 
@@ -111,14 +112,14 @@ We were creative in our approach and execution of the product, starting from the
 
 We were unfamiliar with OSC and IP communication protocols, so this was an area we really had to push ourselves in, but it ended up being very beneficial.
 
-- [ ] Listed future development opportunity for this project
+- [x] Listed future development opportunity for this project
 
 We want to scale up this project to 9 buttons, 3 rotary knobs and even plants, so that we can have a big, multi-person, interactive jamming board.
 
 
 # REPLICABILITY
 
-- [ ] How did you fabricate it (fabrication processes and materials)
+- [x] How did you fabricate it (fabrication processes and materials)
 
 All of the files are inside the folder.
 
@@ -187,7 +188,7 @@ Together, we worked on the electronics, iterating based on our testing needs. We
 ![photo](/0_process/IMG_8722.JPG) 
 
 
-- [ ] Iteration Process (spiral development)
+- [x] Iteration Process (spiral development)
 
 For the input cases
 
@@ -202,19 +203,19 @@ For the audiovisual pipeline
 In both cases, we scaled up the difficulty over time, once we understood the basics of the software or technique.
 
 
-- [ ] Described problems and how the team solved them
+- [x] Described problems and how the team solved them
 
 As always, we had many bugs in the code, within the protocols and we often had to 
 
 Out of all challenges, however, this was the one where we faced the least difficulties because we were so prepared and determined to getting things done, but also because we distributed our skills well and evenly without experimenting too much. It's always important to balance the experimenting enough to be out-of-the-box, yet be rigorous with time and organisation in order to finish within the deadlines.
 
 
-- [ ] Photographies of the end artifacts
+- [x] Photographies of the end artifacts
 
 You can find the final process video [here](https://vimeo.com/717057704)
 
 
-- [ ] Dealing with uncertainty + Don't be afraid to make mistakes
+- [x] Dealing with uncertainty + Don't be afraid to make mistakes
 
 The IAAC wifi sucks. Especially when there are dozens of students git pushing and uploading last minute files onto the repo. We were actually really disappointed with our final presentation because we were looking forward to showcasing our week of hard work to the class and professors, but the wifi bandwidth was not stable enough to maintain a connection between Tatiana and Chris' computer, which meant that Touchdesigner and Ableton were not able to communicate.
 
