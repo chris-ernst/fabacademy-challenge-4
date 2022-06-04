@@ -129,14 +129,16 @@ Juaco started out by prototyping the button cases in cardboard, and surely enoug
 
 ![photo](/0_process/IMG_8644.JPG) 
 ![photo](/0_process/IMG_8646.JPG) 
-![photo](/0_process/IMG_8650.JPG) 
-![photo](/0_process/IMG_4207.jpeg) 
 
 Then, he designed the final structure to be 3D printed in Fusion 360, with slight tweaks for each type of input (based on the shape of the button/knob).
 
+![photo](/0_process/IMG_8650.JPG) 
+![photo](/0_process/IMG_4207.jpeg) 
+
+
 
 ![photo](/0_process/IMG_8652.JPG) 
-![photo](/0_process/IMG_8659.jpeg) 
+![photo](/0_process/IMG_8659.JPG) 
 ![photo](/0_process/IMG_4211.jpeg) 
 
 
