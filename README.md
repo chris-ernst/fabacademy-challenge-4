@@ -35,7 +35,9 @@ Material used:
 
 All the buttons are connected to Arduino that is communicating the data to Touchdesigner. Each button triggers a visual + sound and each potentiomenter changes the color, shape and pitch.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/717057704?h=02182214a8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Fab Challenge 4 Summary"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe src="https://player.vimeo.com/video/717057704?h=02182214a8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Fab Challenge 4 Summary"></iframe>
+
+
 
 [Watch progress video](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2db77373-799c-44dc-9eed-a193a9d7025f/Fab_Challenge_4_Summary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T135727Z&X-Amz-Expires=86400&X-Amz-Signature=bd76c62f96808c296dd6098353f9e487a46c8533aaf282863562d5775bfa159e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Fab%2520Challenge%25204%2520Summary.mp4%22&x-id=GetObject) 
 
