@@ -5,6 +5,8 @@
 # SCOPE
 Tati, Joaco and Chris are building a bio-based A/V interface. 
 
+
+
 Components:
 
 1. Button board 
@@ -18,6 +20,9 @@ In this documentation we will focus on the fabrication of the controller and the
 ## Button board
 
 Button board requires 3D modelling, molding and casting, electronics.
+
+
+- [x] BOM (Build of Materials)
 
 Material used:
 
@@ -38,13 +43,86 @@ Material used:
 All the buttons are connected to Arduino that is communicating the data to Touchdesigner. Each button triggers a visual + sound and each potentiomenter changes the color, shape and pitch.
 
 
-### Molding & Casting
 
-Recipe for biomaterials can be found [here](/2_biomaterials).
+# ACADEMIC LEVEL
 
-![photo](/0_process/IMG_8674.JPG) 
-![photo](/0_process/IMG_8693.JPG) 
-![photo](/0_process/IMG_8703.JPG) 
+## Long term dissemination plan
+need to explain strategy you will use to share with future users your project (licences, tools, communication, etc)
+
+Easy to scale up: we already have the 3D files for a button, potentiometer and pressure sensor, so it is only a matter of repeating the 3D printing.
+
+As for the audiovisual files, Touchdesigner is free for personal use and has a very active community, so we could post the file on TD forums for people to use and learn. Ableton, on the other hand is very not open source and expensive, so it wouldn't be easy to share that with people who do not have a license for it.
+
+
+- [x] Explain how it's linked to your research areas
+
+![photo](/0_process/interests.PNG) 
+
+
+Our research areas are very similar, even though we hav different focal points. The common areas are music, sustainability, environmental awareness, multimedia installations, interaction design, ecologies and audiovisuals. Our individual niches and specialties are 
+  - Juaco: sound, digital fabrication, matter & sound, sonar art, biofabrication and cognition
+  - Tatiana: interactive installations, creative coding, symbiotic relationships, fractals, biomaterials and the one and only Touchdesigner <3
+  - Chris: ML training, Autonomous tech, democratising tech, bridging gaps between disciplines, generative music.
+
+We've liked working together because we manage to each find a way to reach a common objective (Audiovisual VJ set with biomaterials) without compromising our specific interests (bio fabrication, creative coding, generative music etc.).
+
+
+- [x] Initial idea / Concept of the Project ( What questions need to be answered?)
+
+![photo](/0_process/sketches.PNG) 
+
+
+How can we rethink a musical instrument? What are inputs, and how can they change shape and colors? How can we create engaging, collborative interactions with a button board?
+
+We wanted to make a modular button input system. After initially thinking about producing some sort of playable MIDI keyboard, we thought it could be interesting to incorporate two of Akasha hub's values into the design: decentralisation & sustainable relationships. So we designed the possibility for distributed buttons (which could be placed together with magnets or farther away) and rethought the buttons' materiality by using biomaterials.
+
+We were inspired by the structure a visual aspect of beehives, which is why we ended up going for the hexagonic shape.
+
+For the challenge we wanted to test out a diversity of inputs: we selected a "normal" clicking button, a potentiometer and a pressure sensor. This way, we could get a good understanding of each one and simply scale up the process based on our needs in the future.
+
+- [x] Purpose: What is it supposed to do?
+
+These buttons would then trigger visuals through Touchdesigner and audio through Ableton, at the same time, through TDAbleton protocols using wireless communication through IP addresses.
+
+- [x] Shown how your team planned and executed the project
+
+We divided the group based on skills and interests: Juaco worked on the 3D printing, moulding & casting and soldering, Chris worked on the electronics, pcb milling and Ableton sountrack and Tatiana figured out how to structure the pipeline in Touchdesigner to receive, remap and send data through various protocols.
+We often teamed up and helped each other out on various tasks but generally, we can say that our biggest tasks were digital fabrication, biomaterial moulding, PCB milling, electronics, wireless communications, audio & visuals generation.
+
+- [x] System diagram (illustration explaining function, parts, and relations)
+
+![photo](/0_process/IMG_1716.PNG) 
+
+- [x] Integrated Design (How you designed it - relation between elements)
+
+The input (button, rotor, pressure sensor) has a 3D printed case which keeps it stable and allows us to place it where we want. It is connected to the arduino (Code found in project files) which communicates the data into touchdesigner. This data is either binary, 0/1 for the button, or a range, like 0-1023 for the rotary knob. This data is remapped in Touchdesigner according to our needs: for example, 0-1023 is remapped to 1-360 in order for the rotary knob to change the hue of the colour selected in the visual. The buttons activate the visuals in Touchdesigner, but also simulatenously send midi values to ableton thanks to the TDAbleton link we set up for the two softwares to communicate.
+
+
+- [ ] Honest Design (use of technology in a meaningful way) Relation to the topics
+
+We believe the technology was used in a meaningful way because we thought about how to conceptually match our vision with the experience. In other words, since we want participants to think about how technology, art and nature are connected in a collaborative way, we wanted this to be reflected in the button board itself, which is why we chose to make it decentralised with biomaterial and electronic components.
+
+
+- [ ] Be creative (find solutions with materials and technology you have)
+
+We were creative in our approach and execution of the product, starting from the sketches, to the cardboard prototype and finally the product itself.
+
+- [ ] Explore design boundaries (based on your expertise)
+
+We were unfamiliar with OSC and IP communication protocols, so this was an area we really had to push ourselves in, but it ended up being very beneficial.
+
+- [ ] Listed future development opportunity for this project
+
+We want to scale up this project to 9 buttons, 3 rotary knobs and even plants, so that we can have a big, multi-person, interactive jamming board.
+
+
+# REPLICABILITY
+
+- [ ] How did you fabricate it (fabrication processes and materials)
+
+All of the files are inside the folder.
+
+Juaco started out by prototyping the button cases in cardboard, and surely enough he whipped up a great prototype out of nowhere.
 
 ### 3D Fabrication
 
@@ -53,13 +131,30 @@ Recipe for biomaterials can be found [here](/2_biomaterials).
 ![photo](/0_process/IMG_8650.JPG) 
 ![photo](/0_process/IMG_4207.jpeg) 
 
+Then, he designed the final structure to be 3D printed in Fusion 360, with slight tweaks for each type of input (based on the shape of the button/knob).
+
+
 ![photo](/0_process/IMG_8652.JPG) 
 ![photo](/0_process/IMG_8659.jpeg) 
 ![photo](/0_process/IMG_4211.jpeg) 
 
+
+
+### Molding & Casting
+
+Recipe for biomaterials can be found [here](/2_biomaterials).
+
+Juaco also designed the mould for the biomaterials, so that it could fit perfectly into the case.
+
+![photo](/0_process/IMG_8674.JPG) 
+![photo](/0_process/IMG_8693.JPG) 
+![photo](/0_process/IMG_8703.JPG) 
+
+
+
 ### Milling and Soldering an Arduino Shield
 
-Designing, milling and soldering a Arduino Shield to multiply the GND and 5V outputs for the controller. 
+Chris was responsible for designing, milling and soldering a Arduino Shield to multiply the GND and 5V outputs for the controller. 
 
 Some notes on fabrication
 - Trace mill: min. 1/64"
@@ -80,53 +175,18 @@ PCB files can be found [here](/1_fabrication/Arduino_Shield).
 
 ## Audiovisuals
 
+Tatiana coordinated the audiovisuals and managed the incoming and outgoing data
+
 ![photo](/0_process/IMG_8713.JPG) 
+![photo](/0_process/tati.JPG) 
+
+
+
+Together, we worked on the electronics, iterating based on our testing needs. We started out with a simple button and then proceeded to add knobs and pressure sensors. Chris and Tatiana worked on the arduino code and how to visualise it in Touchdesigner.
+
+
 ![photo](/0_process/IMG_8722.JPG) 
 
-
-# ACADEMIC LEVEL
-
-## Long term dissemination plan
-need to explain strategy you will use to share with future users your project (licences, tools, communication, etc)
-
-Easy to scale up: we already have the 3D files for a button, potentiometer and pressure sensor, so it is only a matter of repeating the 3D printing.
-
-As for the audiovisual files, Touchdesigner is free for personal use and has a very active community, so we could post the file on TD forums for people to use and learn. Ableton, on the other hand is very not open source and expensive, so it wouldn't be easy to share that with people who do not have a license for it.
-
-- [ ] Level of the project (quality and complexity of the designed prototype/code/artifacts)
-
-- [ ] Explain how it's linked to your research areas
-
-- [ ] Initial idea / Concept of the Project ( What questions need to be answered?)
-
-- [ ] Propose What is supposed to do or not to do)
-
-
-- [ ] Shown how your team planned and executed the project
-
-- [ ] System diagram (illustration explaining function, parts, and relations)
-
-
-- [ ] Integrated Design (How you designed it - relation between elements)
-
-- [ ] Honest Design (use of technology in a meaningful way) Relation to the topics
-
-- [ ] Be creative (find solutions with materials and technology you have)
-
-- [ ] Explore design boundaries (based on your expertice)
-
-- [ ] Listed future development opportunity for this project
-
-
-# REPLICABILITY
-
-- [ ] Level of clarity and detail of the documentation material (photos, video, text, etc)
-
-- [ ] How did you fabricate it (fabrication processes and materials)
-
-- [ ] Design & Fabrication files (open source or open format)
-
-- [ ] BOM (Build of Materials)
 
 - [ ] Iteration Process (spiral development)
 
