@@ -227,3 +227,33 @@ This is something to keep in mind for the final show, but maybe it was a way of 
 
 
 
+
+
+
+## UPDATES !! <3
+
+
+- [x] Explore design boundaries (based on your expertice)
+
+
+
+We were unfamiliar with OSC and IP communication protocols, so this was an area we really had to push ourselves in, but it ended up being very beneficial to us. By doing this, we could then make Tatiana + Chris' computers communicate wirelessly, using two totally different programs through the magic powers of WIFI.
+
+In addition to this, we believe our design was unique due to its modular button system. After initially thinking about producing some sort of playable MIDI keyboard in the shape of a box or drum pad, we thought it could be more interesting to make the components detachable and independant.
+
+Juaco and Chris had explored making a loop station in the past, so choosing to sticking to that type of instrument would have been repetitive and solvable by already existing products (VJ button board, drum kits, keyboards...). However, by making the buttons in seperate components, we make our output unique and each show could be different. For example, we could have one show with the buttons all together in a beehive shape, and another where they are far apart. 
+
+The distributed buttons' materiality is also innovative because of the use of biomaterials rather than silicone or plastic. This adds an interesting tactility when playing the buttons which is unlike other instruments. We would like to play around with the biomaterial textures and colours in the future.
+
+
+- [x] Long term dissemination plan
+
+The FabChallenge was a way for us to test out the technical side of our final exhibition. After coming up with the idea to have a DJ set at Akasha hub with various buttons to trigger the visuals, we wanted to make this possible with the skills we acquired over the course of  Fabacademy. The challenge allowed us to test various button possibilities and see which one was most suitable to be scaled up at the Akasha event, but also future events. 
+
+We believe that the parametric design makes it easy to scale up: we already have the 3D files for our key elements, the button, potentiometer and pressure sensor, so it is only a matter of repeating the 3D printing to scale up the equipment. If we want to make slight modifications to the design it would be possible too, changing the parametric attributes on Fusion.
+
+As for the audiovisual files, Touchdesigner is free for personal use and has a very active community, so we could post the file on TD forums for people to use and learn. Ableton, on the other hand is very not open source and expensive, so it wouldn't be easy to share that with people who do not have a license for it. This is what regards the dissemination of the project files.
+
+When it comes to scaling up the actual experience beyond MDEF and Akasha hub, we have been discussing a few ideas. We think it would be very interesting to submit the project to certain design festivals, such as ARS Electronica or the Dutch Design week. This will all depend on the outcome of the Akasha event, and whether it is a success or not. If this would happen and we needed more artifacts, it would be easier to scale up for the reasons mentioned before: 3D printing the structure and replicating it. 
+
+Ultimately, this is why we chose having a distributed button system, rather than a simple board. If we had a board, it wouldn't have been as flexible as the various buttons which can be produced and added on demand.
